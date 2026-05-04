@@ -3,7 +3,9 @@ This is our 2nd semester EEL project where using figma we have to re-design an E
 
 
 FIGMA prototype:https://www.figma.com/design/myKn8zR4go4DQNF0HEzu8Q
+
 Features:
+
   Minimalist Redesign** — Clean, modern interface with a clutter-free experience
   
   Less Product Clutter** — Better organization for faster product discovery
@@ -21,6 +23,7 @@ Features:
   Seamless Flow** — Optimized app journey from browsing to checkout
 
 Author:
+
 Abhay Padavalkar-B25IT1141
 
 Pranav Bharam-B25IT1145
